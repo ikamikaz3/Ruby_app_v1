@@ -8,7 +8,7 @@
 /									    / 		
 /////////////////////////////////////////////////////////////////////////////
 
-# Hi ! my name is Thomas i'm a tek1 epitech student #
+Hi ! my name is Thomas i'm a tek1 epitech student
 
 This is my first application using Ruby on Rails 4.
 
